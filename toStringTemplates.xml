@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ToStringTemplates">
+    <option name="defaultTempalteName" value="StringBuilder (JDK 1.5)" />
+  </component>
+</application>
+

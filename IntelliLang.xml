@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="LanguageInjectionConfiguration">
     <option name="INSTRUMENTATION" value="ASSERT" />
@@ -5,5 +6,10 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="HTML" injector-id="java">
+      <display-name>PrintWriter.println (java.io)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("println").withParameters("java.lang.String").definedInClass("java.io.PrintWriter"))]]></place>
+    </injection>
   </component>
 </application>
+
