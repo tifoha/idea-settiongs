@@ -44,6 +44,9 @@
       <entry key="Default">
         <PlaceSettings />
       </entry>
+      <entry key="Merge">
+        <PlaceSettings />
+      </entry>
       <entry key="TestsFiledAssertions">
         <PlaceSettings>
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
