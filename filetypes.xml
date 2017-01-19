@@ -6,6 +6,7 @@
       <mapping pattern="summary" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
+      <mapping ext="preperties" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
