@@ -2,6 +2,12 @@
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
   <action id="Maven.ExecuteGoal">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
   </action>
