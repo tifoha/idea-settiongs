@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
+</keymap>
