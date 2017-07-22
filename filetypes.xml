@@ -4,7 +4,9 @@
       <mapping ext="uar" type="ARCHIVE" />
       <mapping pattern="Summary" type="PLAIN_TEXT" />
       <mapping pattern="summary" type="PLAIN_TEXT" />
+      <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
+      <mapping ext="preperties" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
