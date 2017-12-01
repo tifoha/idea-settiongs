@@ -118,6 +118,14 @@
           <option name="url" value="https://github.com/tifoha/quasar.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.accendosoft.com" />
+          <option name="userName" value="vsereda@accendosoft.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dev.accendosoft.com/gonetrippin/backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Java\" />
