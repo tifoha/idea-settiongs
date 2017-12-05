@@ -126,6 +126,10 @@
           <option name="url" value="https://dev.accendosoft.com/gonetrippin/backend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/awaters1/spring-security-firebase.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Java\" />
